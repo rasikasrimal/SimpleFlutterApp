@@ -14,4 +14,5 @@ In the home_page.dart file, add a Scaffold widget as the root widget and create 
 
 Finally, set the home widget of MaterialApp in the main.dart file to HomePage.
 
-[[https://nlearn.nsbm.ac.lk/pluginfile.php/209904/mod_assign/intro/Picture1.jpg|alt=octocat]]
+![Image]([https://example.com/images/openai-logo.png](https://nlearn.nsbm.ac.lk/pluginfile.php/209904/mod_assign/intro/Picture1.jpg)https://nlearn.nsbm.ac.lk/pluginfile.php/209904/mod_assign/intro/Picture1.jpg)
+
