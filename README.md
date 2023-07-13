@@ -14,5 +14,6 @@ In the home_page.dart file, add a Scaffold widget as the root widget and create 
 
 Finally, set the home widget of MaterialApp in the main.dart file to HomePage.
 
-![Image](https://ibb.co/swm90qV)
+![My Image](https://ibb.co/swm90qV)
+
 
