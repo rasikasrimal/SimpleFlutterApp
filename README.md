@@ -13,3 +13,5 @@ Create a new file named home_page.dart in the lib/pages folder to hold the code 
 In the home_page.dart file, add a Scaffold widget as the root widget and create other widgets as shown in the image below.
 
 Finally, set the home widget of MaterialApp in the main.dart file to HomePage.
+
+[[https://nlearn.nsbm.ac.lk/pluginfile.php/209904/mod_assign/intro/Picture1.jpg|alt=octocat]]
